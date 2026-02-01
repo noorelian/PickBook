@@ -1,2 +1,19 @@
-# PickBook
-This login interface features a fixed navbar with links and a search bar, a centered form over a full-screen background, and fields for email/phone and password. Users can log in with the button or click the “Sign Up” link below to create an account. Fully built with HTML and CSS.
+Features
+
+Fixed Navigation: Top navbar with links to Home, About, Services, and Contact.
+
+Search Bar: Integrated into the navbar for quick access.
+
+Login Form: Centered form with fields for email/phone and password.
+
+Sign Up Link: For users without an account, redirects to account creation.
+
+Clean Design: Semi-transparent form over a full-screen background for a modern look.
+
+HTML & CSS Only: Fully functional without JavaScript.
+
+Technologies Used
+
+HTML5 – Structure and content of the page.
+
+CSS3 – Styling, layout, and responsive design.
