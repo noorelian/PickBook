@@ -8,7 +8,7 @@ Login Form: Centered form with fields for email/phone and password.
 
 Sign Up Link: For users without an account, redirects to account creation.
 
-Clean Design: Semi-transparent form over a full-screen background for a modern look.
+Clean Design: modern and nice look.
 
 HTML & CSS Only: Fully functional without JavaScript.
 
